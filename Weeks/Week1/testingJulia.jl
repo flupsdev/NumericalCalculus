@@ -101,10 +101,10 @@ exp.(v)
 derivate.( x -> x^2 + 1, 2.0)
 
 
-
 # Ranges and compact lists
 
 collect(3:100) # create a list of numbers starting in 3 and finishing on 100
 
 collect(5:0.5:10) # create a list of numbers starting in 3 and going 0.5 by 0.5 to 10 
 
+\ # alt + 9 + 2
